@@ -116,6 +116,11 @@ p {
 	text-align: center;
 }
 
+.about-author img {
+	width: 100px;
+	height: 100px;
+}
+
 .post-container:nth-child(even) {
 	background-color: #f2f2f2;
 }
